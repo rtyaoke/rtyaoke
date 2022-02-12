@@ -16,4 +16,4 @@ Hi, I'm a engineer in Japan.
 - 文字列から好みの空白改行除去くんDX https://tools.rtyaoke.work/remove-blank-dx/
 
 # Hobby Profiles
-- SoundCloud (listen only member) https://soundcloud.com/ryotake
+- SoundCloud (listen-only-member) https://soundcloud.com/ryotake
