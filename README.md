@@ -5,6 +5,7 @@ Hi, I'm a engineer in Japan.
 - GitHub https://github.com/rtyaoke
 - CodePen https://codepen.io/rtyaoke
 - Buy Me a Coffee https://www.buymeacoffee.com/rtyaoke  
+- Google Developers https://g.dev/rtyaoke  
 
 # SNSs
 - LinkedIn https://www.linkedin.com/in/ryota-takeda-86ba9b22a/  
