@@ -1,4 +1,4 @@
-Hi, I'm a engineer in Japan.
+Hi, I'm a IT engineer in Japan.
 
 
 # My IT Engineer Profiles
