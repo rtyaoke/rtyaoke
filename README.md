@@ -12,6 +12,7 @@ Hi, I'm a IT engineer in Japan.
 - LinkedIn https://www.linkedin.com/in/ryota-takeda-86ba9b22a/  
 - Facebook https://www.facebook.com/rtyaoke
 - Wantedly https://www.wantedly.com/id/rtyaoke
+- Eight https://8card.net/p/39962829124
 
 # Services
 - 文字列から好みの空白改行除去くんDX https://tools.rtyaoke.work/remove-blank-dx/
