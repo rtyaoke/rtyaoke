@@ -1,3 +1,8 @@
+# Intro
+## 日本語
+インフラアーキテクチャ設計からフロントまわりまで、小～中規模であれば割と何でもみます。
+お仕事のご相談は、Messengerが一番返信が早いです。
+## English
 Hi, I'm a IT engineer in Japan.
 
 
@@ -20,3 +25,9 @@ Hi, I'm a IT engineer in Japan.
 
 # Hobby Profiles
 - SoundCloud (listen-only-member) https://soundcloud.com/ryotake
+
+# Personality
+- アーチャータイプ「新・RPGジョブ診断」https://rpg-shindan.wantedly.com/result/zx8p3/?fbclid=IwAR3kncdvhR-1-qZLyt41hOBFnDq-RcoOH70Mfan64pNb4zir3YxZkUfGtgw
+
+# IT Skills
+(TODO)
