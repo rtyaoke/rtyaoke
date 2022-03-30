@@ -1,6 +1,6 @@
 # Intro
 ## 日本語
-インフラアーキテクチャ設計からフロントまわりまで、小～中規模であれば割と何でもみます。
+インフラアーキテクチャ設計からフロントまわりまで、小～中規模であれば割と何でもみます。  
 お仕事のご相談は、Messengerが一番返信が早いです。
 ## English
 Hi, I'm a IT engineer in Japan.
@@ -13,7 +13,7 @@ Hi, I'm a IT engineer in Japan.
 - Google Developers https://g.dev/rtyaoke  
 - Qiita https://qiita.com/rtyaoke
 
-# SNSs
+# SNS
 - LinkedIn https://www.linkedin.com/in/ryota-takeda-86ba9b22a/  
 - Facebook https://www.facebook.com/rtyaoke
 - Wantedly https://www.wantedly.com/id/rtyaoke
