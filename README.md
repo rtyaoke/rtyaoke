@@ -30,4 +30,10 @@ Hi, I'm a IT engineer in Japan.
 - アーチャータイプ「新・RPGジョブ診断」https://rpg-shindan.wantedly.com/result/zx8p3/?fbclid=IwAR3kncdvhR-1-qZLyt41hOBFnDq-RcoOH70Mfan64pNb4zir3YxZkUfGtgw
 
 # IT Skills
-(TODO)
+## Intermediate Level
+JavaScript, GAS, JQuery, PHP, Wordpress, Python, Selenium, FastAPI, Flask, SQL, REST API, UiPath, UiPath Orchestrator
+## Elementary Level
+Docker, Apache, Nginx, React, Vue.js, AWS(EC2, lambda), Laravel, Ruby On Rails
+## Others
+GitHub Actions
+
