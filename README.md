@@ -27,6 +27,7 @@ Hi, I'm a IT engineer in Japan.
 - SoundCloud (listen-only-member) https://soundcloud.com/ryotake
 
 # Personality
+- 武田の取扱説明書 https://docs.google.com/document/d/16ebe_zd1mjaFyyS0_B4jzo_modzxZZ95NbVZBF5f868/edit?usp=sharing
 - アーチャータイプ「新・RPGジョブ診断」https://rpg-shindan.wantedly.com/result/zx8p3/?fbclid=IwAR3kncdvhR-1-qZLyt41hOBFnDq-RcoOH70Mfan64pNb4zir3YxZkUfGtgw
 
 # IT Skills
