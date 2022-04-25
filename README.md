@@ -12,6 +12,7 @@ Hi, I'm a IT engineer in Japan.
 - Buy Me a Coffee https://www.buymeacoffee.com/rtyaoke  
 - Google Developers https://g.dev/rtyaoke  
 - Qiita https://qiita.com/rtyaoke
+- Zenn https://zenn.dev/rtyaoke
 
 # SNS
 - LinkedIn https://www.linkedin.com/in/ryota-takeda-86ba9b22a/  
