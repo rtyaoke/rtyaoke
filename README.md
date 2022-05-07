@@ -42,7 +42,7 @@ Apache, Nginx, React, Vue.js, AWS(EC2, lambda), Laravel, Ruby On Rails, Raspberr
 ## Intermediate Level
 VS Code, Adobe XD, Google Analytics, Google Tag Manager, Slack, Discord, GRC, Spreadsheet, Excel, Powerpoint, Local by Flywheel, XAMPP, Notion
 ## Some-experience Level
-Wireshark, Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, draw.io
+Wireshark, Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, draw.io, Nessus
 
 # Certifications
 - [Googleデジタルワークショップ「デジタルマーケティングの基礎」](./pdf/Googleデジタルワークショップ「デジタルマーケティングの基礎」_認定証.pdf)
