@@ -16,11 +16,12 @@ Hi, I'm a IT engineer in Japan.
 - stack overflow https://stackoverflow.com/users/19058684/rtyaoke
 
 # SNS
-- LinkedIn https://www.linkedin.com/in/ryota-takeda-86ba9b22a/  
+- LinkedIn https://www.linkedin.com/in/ryota-takeda-86ba9b22a/
 - Facebook https://www.facebook.com/rtyaoke
 - Wantedly https://www.wantedly.com/id/rtyaoke
 - Eight https://8card.net/p/39962829124
 - Instagram https://www.instagram.com/rtyaoke/
+- Udemy https://www.udemy.com/user/wu-tian-liang-tai-2/
 
 # Services
 - 文字列から好みの空白改行除去くんDX https://tools.rtyaoke.work/remove-blank-dx/
@@ -36,7 +37,14 @@ Hi, I'm a IT engineer in Japan.
 ## Intermediate Level
 JavaScript, GAS, JQuery, PHP, Wordpress, Python, Selenium, FastAPI, Flask, SQL, REST API, UiPath, UiPath Orchestrator, VBA
 ## Elementary Level
-Docker, Apache, Nginx, React, Vue.js, AWS(EC2, lambda), Laravel, Ruby On Rails, Raspberry Pi, Java, Ruby, Bootstrap, Tailwind CSS, JWT
+Docker, Apache, Nginx, React, Vue.js, AWS(EC2, lambda), Laravel, Ruby On Rails, Raspberry Pi, Java, Ruby, Bootstrap, Tailwind CSS, JWT, Bash Script
 ## Others
 Git, GitHub Actions
+
+# Software Skills
+## Intermediate Level
+VS Code, Adobe XD, Slack, Discord, GRC, Spreadsheet, Excel, Powerpoint, Local by Flywheel, XAMPP,
+## Elementary Level
+Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro
+
 
