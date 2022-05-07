@@ -48,5 +48,5 @@ VS Code, Adobe XD, Slack, Discord, GRC, Spreadsheet, Excel, Powerpoint, Local by
 Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, draw.io
 
 # Certifications
-- Googleデジタルワークショップ「デジタルマーケティングの基礎」 https://drive.google.com/file/d/1h5QK23DIY2ez3J-l9YUXaBshW6sV155u/view?usp=sharing
+- [Googleデジタルワークショップ「デジタルマーケティングの基礎」](./pdf/Googleデジタルワークショップ「デジタルマーケティングの基礎」_認定証.pdf)
 
