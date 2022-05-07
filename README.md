@@ -1,8 +1,8 @@
 # Intro
-## Japanese
+## Japanese ver.
 インフラアーキテクチャ設計からフロントまわりまで、小～中規模であれば割と何でもみます。  
 お仕事のご相談は、Messengerが一番返信が早いです。
-## English
+## English ver.
 Hi, I'm a IT engineer in Japan.
 
 # My IT Engineer Profiles
