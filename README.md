@@ -13,6 +13,7 @@ Hi, I'm a IT engineer in Japan.
 - Google Developers https://g.dev/rtyaoke  
 - Qiita https://qiita.com/rtyaoke
 - Zenn https://zenn.dev/rtyaoke
+- stack overflow https://stackoverflow.com/users/19058684/rtyaoke
 
 # SNS
 - LinkedIn https://www.linkedin.com/in/ryota-takeda-86ba9b22a/  
