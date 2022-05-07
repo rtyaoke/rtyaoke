@@ -36,7 +36,7 @@ Hi, I'm a IT engineer in Japan.
 ## Intermediate Level
 JavaScript, GAS, JQuery, PHP, Wordpress, Python, Selenium, FastAPI, Flask, SQL, REST API, UiPath, UiPath Orchestrator, VBA
 ## Elementary Level
-Docker, Apache, Nginx, React, Vue.js, AWS(EC2, lambda), Laravel, Ruby On Rails, Raspberry Pi, Java, Ruby, Bootstrap, Tailwind CSS, JWT, Bash Script, Markdown
+Docker, Apache, Nginx, React, Vue.js, AWS(EC2, lambda), Laravel, Ruby On Rails, Raspberry Pi, Java, Ruby, Bootstrap, Tailwind CSS, JWT, Bash Script, Markdown, Firebase
 ## Others
 Git, GitHub Actions
 
