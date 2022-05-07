@@ -6,6 +6,7 @@
 Hi, I'm a IT engineer in Japan.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtyaoke)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtyaoke)](https://github.com/anuraghazra/github-readme-stats)
 
 # My IT Engineer Profiles
 - GitHub https://github.com/rtyaoke
