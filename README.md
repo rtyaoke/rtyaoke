@@ -39,13 +39,19 @@ Hi, I'm a IT engineer in Japan.
 ## Intermediate Level
 JavaScript, Scss, GAS, JQuery, PHP, Wordpress, Python, Selenium, FastAPI, Pyinstaller, Flask, SQL, REST API, UiPath, UiPath Orchestrator, VBA, Gulp, Docker, Git, GitHub, GitHub Actions, [shortcut.js](https://github.com/rtyaoke/add_shortcut_of_changing_voicy_speed)
 ## Some-experience Level
-Apache, Nginx, React, Vue.js, AWS(EC2, lambda), Laravel, Ruby On Rails, Raspberry Pi, Java, Ruby, Bootstrap, Tailwind CSS, JWT, Bash Script, Markdown, Firebase, CleanArchitecture, MVC, TypeScript, webpack, unittest, pytest, win-acme
+Apache, Nginx, React, Vue.js, AWS(EC2, lambda), Laravel, Ruby On Rails, Raspberry Pi, Java, Ruby, Bootstrap, Tailwind CSS, JWT, Bash Script, Markdown, Firebase, CleanArchitecture, MVC, TypeScript, webpack, unittest, pytest, win-acme, Redmine, MySQL, Windows 10 OpenSSH Server
 
 # Software Skills
 ## Intermediate Level
-VS Code, Adobe XD, Google Analytics, Google Tag Manager, Slack, Discord, GRC, Spreadsheet, Excel, Powerpoint, Local by Flywheel, XAMPP, Notion
+VS Code, Adobe XD, Google Analytics, Google Tag Manager, Slack, Discord, GRC, Spreadsheet, Excel, Powerpoint, Local by Flywheel, XAMPP, Notion, Redmine, Integromat, IFTTT
 ## Some-experience Level
-Wireshark, Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, draw.io, Nessus
+Wireshark, Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, draw.io, Nessus, Zaiper, Atom, NetBeans
+
+# Server Services
+## Intermediate Level
+mixhost, WebARENA SuiteX, Heteml, さくらのレンタルサーバ, LOLIPOP!
+## Some-experience Level
+Xserver, Heroku, Deta
 
 # Certifications
 - [Googleデジタルワークショップ「デジタルマーケティングの基礎」](./pdf/Googleデジタルワークショップ「デジタルマーケティングの基礎」_認定証.pdf)
