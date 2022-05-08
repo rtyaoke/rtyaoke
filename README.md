@@ -53,6 +53,9 @@ Duck DNS, mixhost, WebARENA SuiteX, Heteml, さくらのレンタルサーバ, L
 ## Some-experience Level
 Xserver, Heroku, Deta
 
+# Hardware History
+- 自作PC 2代目使用中
+
 # Certifications
 - [Googleデジタルワークショップ「デジタルマーケティングの基礎」](./pdf/Googleデジタルワークショップ「デジタルマーケティングの基礎」_認定証.pdf)
 
