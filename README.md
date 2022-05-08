@@ -37,19 +37,19 @@ Hi, I'm a IT engineer in Japan.
 
 # IT Skills
 ## Intermediate Level
-JavaScript, Scss, GAS, JQuery, PHP, Wordpress, Python, Selenium, FastAPI, Pyinstaller, Flask, SQL, REST API, UiPath, UiPath Orchestrator, VBA, Gulp, Docker, Git, GitHub, GitHub Actions, [shortcut.js](https://github.com/rtyaoke/add_shortcut_of_changing_voicy_speed)
+JavaScript, Scss, GAS, JQuery, PHP, Wordpress, Python, Selenium, FastAPI, Pyinstaller, Flask, SQL, REST API, UiPath, UiPath Orchestrator, UiPath Assistant, VBA, Gulp, Docker, Git, GitHub, GitHub Actions, [shortcut.js](https://github.com/rtyaoke/add_shortcut_of_changing_voicy_speed), Webhook, Kintone API, LINE Notify
 ## Some-experience Level
-Apache, Nginx, React, Vue.js, AWS(EC2, lambda), Laravel, Ruby On Rails, Raspberry Pi, Java, Ruby, Bootstrap, Tailwind CSS, JWT, Bash Script, Markdown, Firebase, CleanArchitecture, MVC, TypeScript, webpack, unittest, pytest, win-acme, Redmine, MySQL, Windows 10 OpenSSH Server
+Apache, Nginx, React, Vue.js, AWS(EC2, lambda), Laravel, Ruby On Rails, Raspberry Pi, Java, Ruby, Bootstrap, Tailwind CSS, JWT, Bash Script, Markdown, Firebase, CleanArchitecture, MVC, TypeScript, webpack, unittest, pytest, win-acme, Redmine, MySQL, Windows 10 OpenSSH Server, WebSocket, PDFtk, BAT File, PowerShell, UWSC, Excel Addin, Chrome Extension, VSCode Extension, Power Automate Desktop, LINE Bot, Slack Bot, GraphQL, Vim, Arduino
 
-# Software Skills
+# Software Using Skills
 ## Intermediate Level
-VS Code, Adobe XD, Google Analytics, Google Tag Manager, Slack, Discord, GRC, Spreadsheet, Excel, Powerpoint, Local by Flywheel, XAMPP, Notion, Redmine, Integromat, IFTTT
+VS Code, Adobe XD, Google Analytics, Google Search Console, Google Tag Manager, Slack, Discord, GRC, Spreadsheet, Excel, Powerpoint, Local by Flywheel, XAMPP, Notion, Redmine, Integromat, IFTTT, Kintone, Todoist, Wunderlist, Google Business Profile, Google Calendar, Dropbox, freee, Chrome Remote Desktop, Windows Remote Desktop, TeamViewer, Hamachi, Skype, LINE公式アカウント, FFFTP, FileZilla, Bitwarden, TeamSync Bookmarks, ScriptAutoRunner, FireShot, Responsively, Adovanced REST client, Bitnami Redmine, Minecraft Server Jar
 ## Some-experience Level
-Wireshark, Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, draw.io, Nessus, Zaiper, Atom, NetBeans
+Wireshark, Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, draw.io, Nessus, Zaiper, Atom, NetBeans, Teams, Money Forward, Money Forward ME, Sakura Editor, Trello, 秀丸エディタ, Access, Outlook, Vivaldi, Firefox, Word, Visual Studio 2022, Keepa, Postman, AWS Cloud9, Visual Bat, Aviutl, Oracle VM VirtualBox
 
 # Server Services
 ## Intermediate Level
-mixhost, WebARENA SuiteX, Heteml, さくらのレンタルサーバ, LOLIPOP!
+Duck DNS, mixhost, WebARENA SuiteX, Heteml, さくらのレンタルサーバ, LOLIPOP!
 ## Some-experience Level
 Xserver, Heroku, Deta
 
