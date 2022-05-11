@@ -58,4 +58,4 @@ Xserver, Heroku, Deta
 
 # Certifications
 - [Googleデジタルワークショップ「デジタルマーケティングの基礎」](./pdf/Googleデジタルワークショップ「デジタルマーケティングの基礎」_認定証.pdf)
-
+- [G検定 2020](https://nlp.netlearning.co.jp/ns/portal/openbadge/#/public/assertions/user/TXUxNmhzNUhjdzY1WFlSRVdLTGRUQT09)
