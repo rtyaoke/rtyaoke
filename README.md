@@ -17,6 +17,10 @@ Hi, I'm a IT engineer in Japan.
 - Zenn https://zenn.dev/rtyaoke
 - stack overflow https://stackoverflow.com/users/19058684/rtyaoke
 
+# Competitive Programming Profiles
+- Topcoder https://www.topcoder.com/members/rtyaoke
+- AtCoder https://atcoder.jp/users/rtyaoke
+
 # SNS
 - LinkedIn https://www.linkedin.com/in/ryota-takeda-86ba9b22a/
 - Facebook https://www.facebook.com/rtyaoke
