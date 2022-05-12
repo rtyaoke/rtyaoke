@@ -21,6 +21,9 @@ Hi, I'm a IT engineer in Japan.
 - Topcoder https://www.topcoder.com/members/rtyaoke
 - AtCoder https://atcoder.jp/users/rtyaoke
 
+# Other Programing Profiles
+- setodaNote CTF https://ctfexh.setodanote.net/users/85
+
 # SNS
 - LinkedIn https://www.linkedin.com/in/ryota-takeda-86ba9b22a/
 - Facebook https://www.facebook.com/rtyaoke
