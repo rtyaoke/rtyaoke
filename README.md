@@ -54,7 +54,7 @@ VS Code, Adobe XD, Google Analytics, Google Search Console, Google Tag Manager, 
 ## Some-experience Level
 Wireshark, Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, draw.io, Nessus, Zaiper, Atom, NetBeans, Teams, Money Forward, Money Forward ME, Sakura Editor, Trello, 秀丸エディタ, Access, Outlook, Vivaldi, Firefox, Word, Visual Studio 2022, Keepa, Postman, AWS Cloud9, Visual Bat, Aviutl, Oracle VM VirtualBox, Cisco Packet Tracer
 
-# Server Services
+# Server Services Skills
 ## Intermediate Level
 Duck DNS, mixhost, WebARENA SuiteX, Heteml, さくらのレンタルサーバ, LOLIPOP!
 ## Some-experience Level
