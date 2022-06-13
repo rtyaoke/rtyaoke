@@ -53,7 +53,7 @@ Apache, Nginx, React, Vue.js, AWS(EC2, lambda), Laravel, Ruby On Rails, Raspberr
 ## Intermediate Level
 VS Code, Adobe XD, Google Analytics, Google Search Console, Google Tag Manager, Slack, Discord, GRC, Spreadsheet, Excel, Powerpoint, Local by Flywheel, XAMPP, Notion, Redmine, Integromat, IFTTT, Kintone, Todoist, Wunderlist, Google Business Profile, Google Calendar, Dropbox, freee, Chrome Remote Desktop, Windows Remote Desktop, TeamViewer, Hamachi, Skype, LINE公式アカウント, FFFTP, FileZilla, Bitwarden, TeamSync Bookmarks, ScriptAutoRunner, FireShot, Responsively, Adovanced REST client, Bitnami Redmine, Minecraft Server Jar
 ## Some-experience Level
-Wireshark, Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, draw.io, Nessus, Zaiper, Atom, NetBeans, Teams, Money Forward, Money Forward ME, Sakura Editor, Trello, 秀丸エディタ, Access, Outlook, Vivaldi, Firefox, Word, Visual Studio 2022, Keepa, Postman, AWS Cloud9, Visual Bat, Aviutl, Oracle VM VirtualBox, Cisco Packet Tracer
+Wireshark, Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, draw.io, Nessus, Zaiper, Atom, NetBeans, Teams, Money Forward, Money Forward ME, Sakura Editor, Trello, 秀丸エディタ, Access, Outlook, Vivaldi, Firefox, Word, Visual Studio 2022, Keepa, Postman, AWS Cloud9, Visual Bat, Aviutl, Oracle VM VirtualBox, Cisco Packet Tracer, [metabase](https://github.com/metabase/metabase)
 
 # Server Services Skills
 ## Intermediate Level
