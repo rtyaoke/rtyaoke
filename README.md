@@ -32,6 +32,7 @@ Hi, I'm a IT engineer in Japan.
 - Eight https://8card.net/p/39962829124
 - Instagram https://www.instagram.com/rtyaoke/
 - Udemy https://www.udemy.com/user/wu-tian-liang-tai-2/
+- 読書メーター https://bookmeter.com/users/1346518
 
 # Services & Products
 - 文字列から好みの空白改行除去くんDX https://tools.rtyaoke.work/remove-blank-dx/
