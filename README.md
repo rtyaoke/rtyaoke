@@ -40,7 +40,7 @@ Hi, I'm a IT engineer in Japan.
 - SoundCloud (listen-only-member) https://soundcloud.com/ryotake
 - 読書メーター https://bookmeter.com/users/1346518
 - あにこれ [https://www.anikore.jp/users/mypage/](https://www.anikore.jp/users/mypage/status:completed/)
-- https://filmarks.com/users/rtyaoke/clips
+- Filmarks https://filmarks.com/users/rtyaoke/clips
 
 # Personality
 - 武田の取扱説明書 https://docs.google.com/document/d/16ebe_zd1mjaFyyS0_B4jzo_modzxZZ95NbVZBF5f868/edit?usp=sharing
