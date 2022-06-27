@@ -24,6 +24,7 @@ Hi, I'm a IT engineer in Japan.
 
 # Other Programing Profiles
 - setodaNote CTF https://ctfexh.setodanote.net/users/85
+- AIZU ONLINE JUDGE https://onlinejudge.u-aizu.ac.jp/status/users/rtyaoke
 
 # SNS
 - LinkedIn https://www.linkedin.com/in/ryota-takeda-86ba9b22a/
