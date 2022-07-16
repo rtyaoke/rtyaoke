@@ -64,13 +64,26 @@ Hi, I'm a IT engineer in Japan.
 - \[DBMS\] MySQL
 - \[Middleware\] Apache, Nginx
 - \[IoT\] Raspberry Pi, Arduino
-JWT, Firebase, win-acme, Redmine, Windows 10 OpenSSH Server, WebSocket, PDFtk, Excel Addin, Chrome Extension, VSCode Extension, Power Automate Desktop, LINE Bot, Slack Bot, GraphQL, Vim
+- \[Other\] JWT, Firebase, win-acme, Redmine, Windows 10 OpenSSH Server, WebSocket, PDFtk, Excel Addin, Chrome Extension, VSCode Extension, Power Automate Desktop, LINE Bot, Slack Bot, GraphQL, Vim
 
 # Software Using Skills
 ## Intermediate Level
-VS Code, Adobe XD, Google Analytics, Google Search Console, Google Tag Manager, Slack, Discord, GRC, Spreadsheet, Excel, Powerpoint, Local by Flywheel, XAMPP, Notion, Redmine, Integromat, IFTTT, Kintone, Todoist, Wunderlist, Google Business Profile, Google Calendar, Dropbox, freee, Chrome Remote Desktop, Windows Remote Desktop, TeamViewer, Hamachi, Skype, LINE公式アカウント, FFFTP, FileZilla, Bitwarden, TeamSync Bookmarks, ScriptAutoRunner, FireShot, Responsively, Adovanced REST client, Bitnami Redmine, Minecraft Server Jar
+- \[Editor\] VS Code
+- \[Design\] Adobe XD
+- \[Marketing\] Google Analytics, Google Search Console, Google Tag Manager, Google Business Profile, LINE公式アカウント, GRC
+- \[BI\] Google Data Portal
+- \[NoCode\] Integromat, IFTTT
+- \[RemoteDesktop\] Chrome Remote Desktop, Windows Remote Desktop, TeamViewer
+- \[Office\] Excel, Powerpoint, Spreadsheet
+- \[SNS\] Slack, Discord, Skype
+- \[Other\] Local by Flywheel, XAMPP, Notion, Redmine, Kintone, Todoist, Wunderlist, Google Calendar, Dropbox, freee, Hamachi, FFFTP, FileZilla, Bitwarden, TeamSync Bookmarks, ScriptAutoRunner, FireShot, Responsively, Advanced REST client, Bitnami Redmine, Minecraft Server Jar
 ## Some-experience Level
-Wireshark, Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, draw.io, Nessus, Zaiper, Atom, NetBeans, Teams, Money Forward, Money Forward ME, Sakura Editor, Trello, 秀丸エディタ, Access, Outlook, Vivaldi, Firefox, Word, Visual Studio 2022, Keepa, Postman, AWS Cloud9, Visual Bat, Aviutl, Oracle VM VirtualBox, Cisco Packet Tracer, [metabase](https://github.com/metabase/metabase)
+- \[Editor\] Atom, NetBeans, Sakura Editor, 秀丸エディタ, Visual Studio 2022, Visual Bat, AWS Cloud9
+- \[Design\] Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, Aviutl
+- \[BI\] [metabase](https://github.com/metabase/metabase)
+- \[Office\] Outlook, Word
+- \[Network\] Wireshark, Cisco Packet Tracer
+- \[Other\] draw.io, Nessus, Zaiper, Teams, Money Forward, Money Forward ME, Trello, Access, Vivaldi, Firefox, Keepa, Postman, Oracle VM VirtualBox
 
 # Server Services Skills
 ## Intermediate Level
