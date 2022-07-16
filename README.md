@@ -51,7 +51,11 @@ Hi, I'm a IT engineer in Japan.
 
 # IT Skills
 ## Intermediate Level
-JavaScript, Scss, GAS, JQuery, PHP, Wordpress, Python, Selenium, FastAPI, Pyinstaller, Flask, SQL, REST API, UiPath, UiPath Orchestrator, UiPath Assistant, VBA, Gulp, Docker, Git, GitHub, GitHub Actions, [shortcut.js](https://github.com/rtyaoke/add_shortcut_of_changing_voicy_speed), Webhook, Kintone API, LINE Notify
+- \[Lang\] JavaScript, Scss, PHP, Python, VBA, SQL
+- \[Framework\] Wordpress, FastAPI, Flask, 
+- \[Library\] JQuery, Pyinstaller, Gulp, [shortcut.js](https://github.com/rtyaoke/add_shortcut_of_changing_voicy_speed)
+- \[RPA\] UiPath, UiPath Orchestrator, UiPath Assistant
+- \[Other\] GAS, Selenium, REST API, Docker, Git, GitHub, GitHub Actions, Webhook, Kintone API, LINE Notify
 ## Some-experience Level
 Apache, Nginx, React, Vue.js, Laravel, Ruby On Rails, Raspberry Pi, Java, Ruby, Bootstrap, Tailwind CSS, JWT, Bash Script, Markdown, Firebase, CleanArchitecture, MVC, TypeScript, webpack, unittest, pytest, win-acme, Redmine, MySQL, Windows 10 OpenSSH Server, WebSocket, PDFtk, BAT File, PowerShell, UWSC, Excel Addin, Chrome Extension, VSCode Extension, Power Automate Desktop, LINE Bot, Slack Bot, GraphQL, Vim, Arduino
 
