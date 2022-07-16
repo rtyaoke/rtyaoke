@@ -64,7 +64,7 @@ Hi, I'm a IT engineer in Japan.
 - \[DBMS\] MySQL
 - \[Middleware\] Apache, Nginx
 - \[IoT\] Raspberry Pi, Arduino
-- \[Other\] JWT, Firebase, win-acme, Redmine, Windows 10 OpenSSH Server, WebSocket, PDFtk, Excel Addin, Chrome Extension, VSCode Extension, Power Automate Desktop, LINE Bot, Slack Bot, GraphQL, Vim
+- \[Other\] JWT, Firebase, win-acme, Redmine, Windows 10 OpenSSH Server, WebSocket, PDFtk, Excel Addin, Chrome Extension, VSCode Extension, Power Automate Desktop, LINE Bot, Slack Bot, GraphQL
 
 # Software Using Skills
 ## Intermediate Level
@@ -78,7 +78,7 @@ Hi, I'm a IT engineer in Japan.
 - \[SNS\] Slack, Discord, Skype
 - \[Other\] Local by Flywheel, XAMPP, Notion, Redmine, Kintone, Todoist, Wunderlist, Google Calendar, Dropbox, freee, Hamachi, FFFTP, FileZilla, Bitwarden, TeamSync Bookmarks, ScriptAutoRunner, FireShot, Responsively, Advanced REST client, Bitnami Redmine, Minecraft Server Jar
 ## Some-experience Level
-- \[Editor\] Atom, NetBeans, Sakura Editor, 秀丸エディタ, Visual Studio 2022, Visual Bat, AWS Cloud9
+- \[Editor\] Atom, NetBeans, Sakura Editor, 秀丸エディタ, Visual Studio 2022, Visual Bat, AWS Cloud9, Vim, nano
 - \[Design\] Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, Aviutl
 - \[BI\] [metabase](https://github.com/metabase/metabase)
 - \[Office\] Outlook, Word
