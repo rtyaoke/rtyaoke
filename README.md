@@ -37,7 +37,7 @@ Hi, I'm a IT engineer in Japan.
 - Udemy https://www.udemy.com/user/wu-tian-liang-tai-2/
 
 # Services & Products
-- 文字列から好みの空白改行除去くんDX https://tools.rtyaoke.work/remove-blank-dx/
+- 文字列から好みの空白改行除去くんDX https://rtyaoke.github.io/remove-blank-dx/
 
 # Hobby Profiles
 - SoundCloud (listen-only-member) https://soundcloud.com/ryotake
