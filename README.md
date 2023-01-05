@@ -50,13 +50,13 @@ Hi, I'm a IT engineer in Japan.
 - アーチャータイプ「新・RPGジョブ診断」https://rpg-shindan.wantedly.com/result/zx8p3/?fbclid=IwAR3kncdvhR-1-qZLyt41hOBFnDq-RcoOH70Mfan64pNb4zir3YxZkUfGtgw
 
 # IT Skills
-## Intermediate Level
+## Lv.2(Intermediate Level)
 - \[Lang\] JavaScript, Scss, PHP, Python, VBA, SQL
 - \[Framework\] Wordpress, FastAPI, Flask, 
 - \[Library\] JQuery, Pyinstaller, Gulp, [shortcut.js](https://github.com/rtyaoke/add_shortcut_of_changing_voicy_speed)
 - \[RPA\] UiPath, UiPath Orchestrator, UiPath Assistant
 - \[Other\] GAS, Selenium, REST API, Docker, Git, GitHub, GitHub Actions, Webhook, Kintone API, LINE Notify
-## Some-experience Level
+## Lv.1(Some-experience Level)
 - \[Lang\] Java, Ruby, Bash Script, Markdown, TypeScript, PowerShell, UWSC, BAT File
 - \[Framework\] React, Vue.js, Laravel, Ruby On Rails, Bootstrap, Tailwind CSS
 - \[Library\] unittest, pytest, webpack
@@ -67,7 +67,7 @@ Hi, I'm a IT engineer in Japan.
 - \[Other\] JWT, Firebase, win-acme, Redmine, Windows 10 OpenSSH Server, WebSocket, PDFtk, Excel Addin, Chrome Extension, VSCode Extension, Power Automate Desktop, LINE Bot, Slack Bot, GraphQL
 
 # Software Using Skills
-## Intermediate Level
+## Lv.2(Intermediate Level)
 - \[Editor\] VS Code
 - \[Design\] Adobe XD
 - \[Marketing\] Google Analytics, Google Search Console, Google Tag Manager, Google Business Profile, LINE公式アカウント, GRC
@@ -77,7 +77,7 @@ Hi, I'm a IT engineer in Japan.
 - \[Office\] Excel, Powerpoint, Spreadsheet
 - \[SNS\] Slack, Discord, Skype
 - \[Other\] Local by Flywheel, XAMPP, Notion, Redmine, Kintone, Todoist, Wunderlist, Google Calendar, Dropbox, freee, Hamachi, FFFTP, FileZilla, Bitwarden, TeamSync Bookmarks, ScriptAutoRunner, FireShot, Responsively, Advanced REST client, Bitnami Redmine, Minecraft Server Jar
-## Some-experience Level
+## Lv.1(Some-experience Level)
 - \[Editor\] Atom, NetBeans, Sakura Editor, 秀丸エディタ, Visual Studio 2022, Visual Bat, AWS Cloud9, Vim, nano
 - \[Design\] Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, Aviutl
 - \[BI\] [metabase](https://github.com/metabase/metabase)
@@ -86,9 +86,9 @@ Hi, I'm a IT engineer in Japan.
 - \[Other\] draw.io, Nessus, Zaiper, Teams, Money Forward, Money Forward ME, Trello, Access, Vivaldi, Firefox, Keepa, Postman, Oracle VM VirtualBox
 
 # Server Services Skills
-## Intermediate Level
+## Lv.2(Intermediate Level)
 Duck DNS, mixhost, WebARENA SuiteX, Heteml, さくらのレンタルサーバ, LOLIPOP!, AWS(EC2, lambda)
-## Some-experience Level
+## Lv.1(Some-experience Level)
 Xserver, Heroku, Deta
 
 # Hardware History
