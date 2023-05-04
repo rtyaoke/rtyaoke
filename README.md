@@ -49,7 +49,7 @@ Hi, I'm a IT engineer in Japan.
 - 武田の取扱説明書 https://docs.google.com/document/d/16ebe_zd1mjaFyyS0_B4jzo_modzxZZ95NbVZBF5f868/edit?usp=sharing
 - アーチャータイプ「新・RPGジョブ診断」https://rpg-shindan.wantedly.com/result/zx8p3/?fbclid=IwAR3kncdvhR-1-qZLyt41hOBFnDq-RcoOH70Mfan64pNb4zir3YxZkUfGtgw
 
-# IT Skills
+# IT Developing Skills
 ## Lv.3(Used in business as a leader)
 - \[Lang\] Python, SQL
 ## Lv.2(Intermediate Level)
@@ -58,6 +58,7 @@ Hi, I'm a IT engineer in Japan.
 - \[Library\] JQuery, Pyinstaller, Gulp, [shortcut.js](https://github.com/rtyaoke/add_shortcut_of_changing_voicy_speed), pytest
 - \[RPA\] UiPath, UiPath Orchestrator, UiPath Assistant
 - \[DBMS\] PostgreSQL, SQL Server
+- \[SSH Server\] OpenSSH Server(setup and add auth keys in Windows 10 and server 2016)
 - \[Others\] GAS, Selenium, REST API, Docker, Git, GitHub, GitHub Actions, Webhook, Kintone API, LINE Notify, Redmine(setup, maintain)
 ## Lv.1(Some-experience Level)
 - \[Lang\] Java, Ruby, Bash Script, UWSC, BAT File
@@ -67,7 +68,8 @@ Hi, I'm a IT engineer in Japan.
 - \[DBMS\] MySQL, SQL Lite
 - \[Middleware\] Apache, Nginx
 - \[IoT\] Raspberry Pi, Arduino
-- \[Others\] JWT, Firebase, win-acme, Windows 10 OpenSSH Server, WebSocket, PDFtk, Excel Addin, Chrome Extension, VSCode Extension, Power Automate Desktop, LINE Bot, Slack Bot, GraphQL
+- \[RPA\] Power Automate Desktop
+- \[Others\] JWT, Firebase, win-acme, WebSocket, PDFtk, Excel Addin, Chrome Extension, VSCode Extension, LINE Bot, Slack Bot, GraphQL
 
 # OSS Using Skills
 ## Lv.3(Used in business as a leader)
@@ -85,18 +87,20 @@ Hi, I'm a IT engineer in Japan.
 - \[Design\] Adobe XD
 - \[Marketing\] Google Analytics, Google Search Console, Google Tag Manager, Google Business Profile, LINE公式アカウント, GRC
 - \[BI\] Google Data Portal
-- \[DB Client\] pgAdmin 4
+- \[DB Client\] pgAdmin 4, SQL Server Management Studio, phpMyAdmin
+- \[REST Client\] Advanced REST client, Postman
+- \[Browser\] Chrome, Edge, Brave, Vivaldi
 - \[NoCode\] Integromat, IFTTT
 - \[RemoteDesktop\] Chrome Remote Desktop, Windows Remote Desktop, TeamViewer
 - \[Office\] Excel, Powerpoint, Spreadsheet
 - \[SNS\] Slack, Discord, Skype, Teams
-- \[Others\] Local by Flywheel, XAMPP, Notion, Redmine, Kintone, Todoist, Wunderlist, Google Calendar, Dropbox, freee, Hamachi, FFFTP, FileZilla, Bitwarden, TeamSync Bookmarks, ScriptAutoRunner, FireShot, Responsively, Advanced REST client, Bitnami Redmine, Minecraft Server Jar
+- \[Others\] Local by Flywheel, XAMPP, Notion, Redmine, Kintone, Todoist, Wunderlist, Google Calendar, Dropbox, freee, Hamachi, FFFTP, FileZilla, Bitwarden, TeamSync Bookmarks, ScriptAutoRunner, FireShot, Responsively, Bitnami Redmine, Minecraft Server Jar
 ## Lv.1(Some-experience Level)
 - \[Editor\] Atom, NetBeans, Sakura Editor, 秀丸エディタ, Visual Studio 2022, Visual Bat, AWS Cloud9, Vim, nano
 - \[Design\] Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, Aviutl
 - \[Office\] Outlook, Word
 - \[Network\] Wireshark, Cisco Packet Tracer
-- \[Others\] draw.io, Nessus, Zaiper, Money Forward, Money Forward ME, Trello, Access, Vivaldi, Firefox, Keepa, Postman, Oracle VM VirtualBox
+- \[Others\] draw.io, Nessus, Zaiper, Money Forward, Money Forward ME, Trello, Access, Firefox, Keepa, Oracle VM VirtualBox
 
 # Server Services Skills
 ## Lv.3(Used in business as a leader)
