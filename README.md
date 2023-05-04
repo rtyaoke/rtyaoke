@@ -50,49 +50,64 @@ Hi, I'm a IT engineer in Japan.
 - アーチャータイプ「新・RPGジョブ診断」https://rpg-shindan.wantedly.com/result/zx8p3/?fbclid=IwAR3kncdvhR-1-qZLyt41hOBFnDq-RcoOH70Mfan64pNb4zir3YxZkUfGtgw
 
 # IT Skills
+## Lv.3(Used in business as a leader)
+- \[Lang\] Python, SQL
 ## Lv.2(Intermediate Level)
-- \[Lang\] JavaScript, Scss, PHP, Python, VBA, SQL
+- \[Lang\] JavaScript, Scss, PHP, VBA, TypeScript, Markdown, PowerShell
 - \[Framework\] Wordpress, FastAPI, Flask, 
-- \[Library\] JQuery, Pyinstaller, Gulp, [shortcut.js](https://github.com/rtyaoke/add_shortcut_of_changing_voicy_speed)
+- \[Library\] JQuery, Pyinstaller, Gulp, [shortcut.js](https://github.com/rtyaoke/add_shortcut_of_changing_voicy_speed), pytest
 - \[RPA\] UiPath, UiPath Orchestrator, UiPath Assistant
-- \[Other\] GAS, Selenium, REST API, Docker, Git, GitHub, GitHub Actions, Webhook, Kintone API, LINE Notify
+- \[DBMS\] PostgreSQL, SQL Server
+- \[Others\] GAS, Selenium, REST API, Docker, Git, GitHub, GitHub Actions, Webhook, Kintone API, LINE Notify, Redmine(setup, maintain)
 ## Lv.1(Some-experience Level)
-- \[Lang\] Java, Ruby, Bash Script, Markdown, TypeScript, PowerShell, UWSC, BAT File
+- \[Lang\] Java, Ruby, Bash Script, UWSC, BAT File
 - \[Framework\] React, Vue.js, Laravel, Ruby On Rails, Bootstrap, Tailwind CSS
-- \[Library\] unittest, pytest, webpack
+- \[Library\] unittest, webpack
 - \[Architecture\] CleanArchitecture, MVC
-- \[DBMS\] MySQL
+- \[DBMS\] MySQL, SQL Lite
 - \[Middleware\] Apache, Nginx
 - \[IoT\] Raspberry Pi, Arduino
-- \[Other\] JWT, Firebase, win-acme, Redmine, Windows 10 OpenSSH Server, WebSocket, PDFtk, Excel Addin, Chrome Extension, VSCode Extension, Power Automate Desktop, LINE Bot, Slack Bot, GraphQL
+- \[Others\] JWT, Firebase, win-acme, Windows 10 OpenSSH Server, WebSocket, PDFtk, Excel Addin, Chrome Extension, VSCode Extension, Power Automate Desktop, LINE Bot, Slack Bot, GraphQL
+
+# OSS Using Skills
+## Lv.3(Used in business as a leader)
+- \[BI\] [metabase](https://github.com/metabase/metabase)(setup, update, maintain from .jar and docker)
+- \[ETL Tool\] [Embulk](https://github.com/embulk/embulk)
+- \[Others\][WinSW](https://github.com/winsw/winsw)(=Windows Service Wrapper)
+## Lv.2(Intermediate Level)
+- \[SEO rank tracker\] [serposcope](https://github.com/serphacker/serposcope)(setup from installer and docker)
 
 # Software Using Skills
+## Lv.3(Used in business as a leader)
+- \[BI\] [metabase](https://github.com/metabase/metabase)
 ## Lv.2(Intermediate Level)
 - \[Editor\] VS Code
 - \[Design\] Adobe XD
 - \[Marketing\] Google Analytics, Google Search Console, Google Tag Manager, Google Business Profile, LINE公式アカウント, GRC
 - \[BI\] Google Data Portal
+- \[DB Client\] pgAdmin 4
 - \[NoCode\] Integromat, IFTTT
 - \[RemoteDesktop\] Chrome Remote Desktop, Windows Remote Desktop, TeamViewer
 - \[Office\] Excel, Powerpoint, Spreadsheet
-- \[SNS\] Slack, Discord, Skype
-- \[Other\] Local by Flywheel, XAMPP, Notion, Redmine, Kintone, Todoist, Wunderlist, Google Calendar, Dropbox, freee, Hamachi, FFFTP, FileZilla, Bitwarden, TeamSync Bookmarks, ScriptAutoRunner, FireShot, Responsively, Advanced REST client, Bitnami Redmine, Minecraft Server Jar
+- \[SNS\] Slack, Discord, Skype, Teams
+- \[Others\] Local by Flywheel, XAMPP, Notion, Redmine, Kintone, Todoist, Wunderlist, Google Calendar, Dropbox, freee, Hamachi, FFFTP, FileZilla, Bitwarden, TeamSync Bookmarks, ScriptAutoRunner, FireShot, Responsively, Advanced REST client, Bitnami Redmine, Minecraft Server Jar
 ## Lv.1(Some-experience Level)
 - \[Editor\] Atom, NetBeans, Sakura Editor, 秀丸エディタ, Visual Studio 2022, Visual Bat, AWS Cloud9, Vim, nano
 - \[Design\] Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, Aviutl
-- \[BI\] [metabase](https://github.com/metabase/metabase)
 - \[Office\] Outlook, Word
 - \[Network\] Wireshark, Cisco Packet Tracer
-- \[Other\] draw.io, Nessus, Zaiper, Teams, Money Forward, Money Forward ME, Trello, Access, Vivaldi, Firefox, Keepa, Postman, Oracle VM VirtualBox
+- \[Others\] draw.io, Nessus, Zaiper, Money Forward, Money Forward ME, Trello, Access, Vivaldi, Firefox, Keepa, Postman, Oracle VM VirtualBox
 
 # Server Services Skills
+## Lv.3(Used in business as a leader)
+GCP(Cloud Functions, Cloud Build)
 ## Lv.2(Intermediate Level)
 Duck DNS, mixhost, WebARENA SuiteX, Heteml, さくらのレンタルサーバ, LOLIPOP!, AWS(EC2, lambda)
 ## Lv.1(Some-experience Level)
 Xserver, Heroku, Deta
 
 # Hardware History
-- 自作PC 2代目使用中
+- 自作PC 2代目使用中(Ryzen 9 5900X, GTX 1080 Ti)
 - Macbook Air 2015
 
 # Certifications
