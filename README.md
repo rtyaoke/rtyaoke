@@ -1,7 +1,22 @@
 # Intro
 ## Japanese ver.
-インフラアーキテクチャ設計からフロントまわりまで、小～中規模であれば割と何でもみます。  
-お仕事のご相談は、Messengerが一番返信が早いです。
+インフラアーキテクチャ設計からフロントまわりまで、小～中規模であれば割と何でもみます。
+現在は主に
+- データ分析基盤構築(SQL, dbt, metabase, postgreSQL, SQLServer Oracle, embulk, aws...)
+- 社内業務効率化ツール開発<小規模Webアプリ, Chrome拡張機能, ...>(Python, TypeScript, Vue3, React...)
+をしています。
+- また、今現在、既存のお仕事で一杯一杯なので、新規お仕事はお受けしていません。すみません。
+- （ITエンジニアまたは未経験の方で、データ分析基盤構築や小規模webアプリ開発に興味がある方は、[LinkedIn](https://www.linkedin.com/in/ryota-takeda-86ba9b22a/) まで連絡ください。）
+   - 想定給与レンジの目安
+     - <基本>
+     - 「"サーバー"、"クライアント"という基礎的な用語がわかる」「100行程度以内のVBA, Python等コードで、実際に動くものを作れる」というレベルであれば、2000円~/時給
+     - <SQL系>
+     - 「SQLで複数テーブルからウィンドウ関数等を用いて集計できる」というレベルであれば、2500円~/時給
+     - 「SQLの書籍を何個か読破していて、複雑なSQLでもChatGPT等を使ってなんでも作成可能」というレベルであれば、4000円~/時給
+     - <Webアプリ系>
+     - 「何かしらの言語で、数ページのWebアプリケーションを構築&サーバーへデプロイ可能」というレベルであれば、3000円~/時給
+     - 「上記に加えて、認証機能、PostgreSQL・MySQL等の本番稼働用RDBへの接続・操作が可能」というレベルであれば、3500円~/時給
+     - 「インフラ、フロント、なんでもできます。やったことないものでも多分すぐに使えるようになります」というレベルであれば、5000円~/時給
 ## English ver.
 Hi, I'm a IT engineer in Japan.
 
@@ -52,6 +67,10 @@ Hi, I'm a IT engineer in Japan.
 # IT Developing Skills
 ## Lv.3(Used in business as a leader)
 - \[Lang\] Python, SQL
+- \[Framework\] dbt
+- \[BI tool\] [metabase](https://github.com/metabase/metabase)(setup, update, maintain from .jar and docker)
+- \[ETL Tool\] [Embulk](https://github.com/embulk/embulk)
+- \[Others\][WinSW](https://github.com/winsw/winsw)(=Windows Service Wrapper)
 ## Lv.2(Intermediate Level)
 - \[Lang\] JavaScript, Scss, PHP, VBA, TypeScript, Markdown, PowerShell
 - \[Framework\] Wordpress, FastAPI, Flask, 
@@ -71,14 +90,6 @@ Hi, I'm a IT engineer in Japan.
 - \[RPA\] Power Automate Desktop
 - \[Others\] JWT, Firebase, win-acme, WebSocket, PDFtk, Excel Addin, Chrome Extension, VSCode Extension, LINE Bot, Slack Bot, GraphQL
 
-# OSS Using Skills
-## Lv.3(Used in business as a leader)
-- \[BI\] [metabase](https://github.com/metabase/metabase)(setup, update, maintain from .jar and docker)
-- \[ETL Tool\] [Embulk](https://github.com/embulk/embulk)
-- \[Others\][WinSW](https://github.com/winsw/winsw)(=Windows Service Wrapper)
-## Lv.2(Intermediate Level)
-- \[SEO rank tracker\] [serposcope](https://github.com/serphacker/serposcope)(setup from installer and docker)
-
 # Software Using Skills
 ## Lv.3(Used in business as a leader)
 - \[BI\] [metabase](https://github.com/metabase/metabase)
@@ -94,6 +105,7 @@ Hi, I'm a IT engineer in Japan.
 - \[RemoteDesktop\] Chrome Remote Desktop, Windows Remote Desktop, TeamViewer
 - \[Office\] Excel, Powerpoint, Spreadsheet
 - \[SNS\] Slack, Discord, Skype, Teams
+- \[SEO rank tracker\] [serposcope](https://github.com/serphacker/serposcope)(setup from installer and docker)
 - \[Others\] Local by Flywheel, XAMPP, Notion, Redmine, Kintone, Todoist, Wunderlist, Google Calendar, Dropbox, freee, Hamachi, FFFTP, FileZilla, Bitwarden, TeamSync Bookmarks, ScriptAutoRunner, FireShot, Responsively, Bitnami Redmine, Minecraft Server Jar
 ## Lv.1(Some-experience Level)
 - \[Editor\] Atom, NetBeans, Sakura Editor, 秀丸エディタ, Visual Studio 2022, Visual Bat, AWS Cloud9, Vim, nano
